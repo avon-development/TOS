@@ -14,6 +14,7 @@
 5. Use any type of unauthorized automation within Discord.
 6. Unauthorized use of the name "AVON" or association with any intellectual property owned by the AVON™ project without explicit prior permission from the AVON™ team may result in severe consequences.
 7. We can change our TOS anytime with a prior notice period of 12 Hours
+8. Run Your OWN copy of AVON without the permission of Owners will result in direct Blacklist 
 
 
 Note that breaking any of the following will lead to blacklisting and banning from our services.
